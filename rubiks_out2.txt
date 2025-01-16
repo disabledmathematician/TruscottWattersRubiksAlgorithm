@@ -1,0 +1,16 @@
+Solved: ['U', 'L', 'B inverse', 'U inverse']
+Initial State:
+Front Face: ['G', 'Y', 'W', 'G']
+Left Face: ['G', 'O', 'O', 'B']
+Right Face: ['B', 'B', 'R', 'Y']
+Back Face: ['W', 'W', 'B', 'Y']
+Up Face: ['R', 'R', 'W', 'R']
+Down Face:['O', 'Y', 'G', 'O']
+Solved State: Front Face: ['G', 'G', 'G', 'G'], Left Face: ['O', 'O', 'O', 'O'], Right Face:['R', 'R', 'R', 'R'] Back Face: ['B', 'B', 'B', 'B'], Up face: ['W', 'W', 'W', 'W'], Down face: ['Y', 'Y', 'Y', 'Y']
+
+********
+Moves: ['U', 'L', 'B inverse', 'U inverse']
+*******
+Charles Truscott Watters, Byron Bay NSW 2481
+
+[Program finished]
